@@ -1,11 +1,11 @@
-## Instalar dependências:
-Python3
-Node.Js
-Pip3
-Env
+## Instalar dependências
+.Python3
+.Node.Js
+.Pip3
+.Env
 
 
-## Para subir o projeto é necessário:
+## Para subir o projeto é necessário
 -Na pasta projeto '~/djangoreactproject' usar o comando:
  python3 manage.py runserver
 
